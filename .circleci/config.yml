@@ -48,4 +48,4 @@ workflows:
       - flow
       - downstream:
           requires:
-            - flo
+            - flow
